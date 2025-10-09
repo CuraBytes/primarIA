@@ -2,7 +2,7 @@
 Proyecto para la integración de la inteligencia artificial en la atención sanitaria primaria.
 
 
-##Integrantes
+## Integrantes
 **DAW**
 Carlos Gómez Sánchez
 Alejandro Sierra Lagartera
