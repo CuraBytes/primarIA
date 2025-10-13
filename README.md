@@ -21,5 +21,6 @@ Proyecto para la integración de la inteligencia artificial en la atención sani
 - **Tailwind**
   
 **Backend**
-  
+- Java + Spring Boo
 **Base de Datos**
+- MySQL
