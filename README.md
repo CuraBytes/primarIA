@@ -11,6 +11,7 @@ Proyecto para la integración de la inteligencia artificial en la atención sani
 
 **DAM**
 - Cheha Bahk Hwang
+- Borja LOgrosan Rodriguez
 
 
 ## Tecnologías
