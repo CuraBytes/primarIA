@@ -10,6 +10,7 @@ Proyecto para la integración de la inteligencia artificial en la atención sani
 - Adrián González Chico
 
 **DAM**
+- Cheha Bahk Hwang
 
 
 ## Tecnologías
