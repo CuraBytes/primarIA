@@ -1,7 +1,13 @@
 # primarIA
-##Objetivo
-Proyecto orientado a la integración de tecnologías de inteligencia artificial en los procesos de atención sanitaria primaria, con el objetivo de mejorar la eficiencia, la precisión diagnóstica y la toma de decisiones médicas.
 
+## Tabla de contenidos
+- [Objetivo](#Objetivo)
+- [Integrantes](#Integrantes)
+- [Tecnologías](#Tecnologías)
+
+
+## Objetivo
+Proyecto orientado a la integración de tecnologías de inteligencia artificial en los procesos de atención sanitaria primaria, con el objetivo de mejorar la eficiencia, la precisión diagnóstica y la toma de decisiones médicas.
 
 ## Integrantes
 **DAW**
