@@ -1,13 +1,17 @@
 # primarIA
-Proyecto para la integración de la inteligencia artificial en la atención sanitaria primaria.
+##Objetivo
+Proyecto orientado a la integración de tecnologías de inteligencia artificial en los procesos de atención sanitaria primaria, con el objetivo de mejorar la eficiencia, la precisión diagnóstica y la toma de decisiones médicas.
 
 
 ## Integrantes
 **DAW**
-- Carlos Gómez Sánchez
-- Alejandro Sierra Lagartera
-- Laura Céspedes Berdonces
-- Adrián González Chico
+| Nombre | Rol |
+|---------|-----|
+| Alejandro Sierra Lagartera | Jefe de Equipo |
+| Carlos Gómez Sánchez | - |
+| Laura Céspedes Berdonces | - |
+| Adrián González Chico | - |
+
 
 **DAM**
 - Cheha Bahk Hwang
