@@ -4,7 +4,7 @@
 - [Objetivo](#Objetivo)
 - [Integrantes](#Integrantes)
 - [Tecnologías](#Tecnologías)
-- [Rutas del Proyecto](#RutasdelProyecto)
+- [Rutas del Proyecto](#Rutas)
 
 
 ## Objetivo
@@ -51,7 +51,7 @@ Proyecto orientado a la integración de tecnologías de inteligencia artificial 
 - **Fiabilidad**: MySQL garantiza un almacenamiento seguro y estructurado de datos sensibles, cumpliendo con los requisitos del sector salud.
 - **Diseño centrado en el usuario**: Tailwind CSS asegura una experiencia visual consistente y profesional para médicos y administradores.
 
-## Rutas del Proyecto
+## Rutas
 ### Casos Clínicos
 
 A continuación, se detallan los endpoints principales para la gestión de casos clínicos:
