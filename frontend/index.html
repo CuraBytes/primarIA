@@ -8,10 +8,11 @@
 </head>
 
 <body>
-
+    <h1 id="test"></h1>
     <script>
-        fetch("http://localhost:3001/hello").then(data => data.text()).then(data => {
-            console.log(data)
+        const testEl = document.getElementById("test")
+        fetch("http://localhost:8080/hello").then(data => data.text()).then(data => {
+            testEl.innerText = data
         })
     </script>
 </body>
