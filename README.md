@@ -8,9 +8,9 @@ Proyecto orientado a la integración de tecnologías de inteligencia artificial 
 | Nombre | Rol |
 |---------|-----|
 | Alejandro Sierra Lagartera | Jefe de Equipo |
-| Carlos Gómez Sánchez | - |
-| Laura Céspedes Berdonces | - |
-| Adrián González Chico | - |
+| Carlos Gómez Sánchez | Desarrollo Frontend |
+| Laura Céspedes Berdonces | Desarrollo Frontend |
+| Adrián González Chico | Desarrollo Frontend |
 
 
 **DAM**
