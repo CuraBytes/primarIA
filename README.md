@@ -4,6 +4,7 @@
 - [Objetivo](#Objetivo)
 - [Integrantes](#Integrantes)
 - [Tecnologías](#Tecnologías)
+- [Rutas del Proyecto](#RutasdelProyecto)
 
 
 ## Objetivo
