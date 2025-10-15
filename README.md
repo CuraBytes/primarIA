@@ -49,3 +49,13 @@ Proyecto orientado a la integración de tecnologías de inteligencia artificial 
 - **Rendimiento**: Spring Boot optimizan el backend, reduciendo tiempos de respuesta en entornos clínicos.
 - **Fiabilidad**: MySQL garantiza un almacenamiento seguro y estructurado de datos sensibles, cumpliendo con los requisitos del sector salud.
 - **Diseño centrado en el usuario**: Tailwind CSS asegura una experiencia visual consistente y profesional para médicos y administradores.
+
+## Rutas del Proyecto
+### Casos Clínicos
+
+A continuación, se detallan los endpoints principales para la gestión de casos clínicos:
+
+| Método | Ruta            | Descripción                                                                 | Respuesta Exitosa |
+|--------|-----------------|-----------------------------------------------------------------------------|-------------------|
+| ![GET](https://img.shields.io/badge/GET-28A745?logo=get&logoColor=white) | `/casos`        | Devuelve un caso clínico pendiente de valoración, listo para revisión médica. | `200 OK` con JSON del caso clínico. |
+| ![POST](https://img.shields.io/badge/POST-0078D4?logo=post&logoColor=white) | `/casos/:id`    | Permite valorar un caso clínico enviando datos de diagnóstico o comentarios. | `201 Created` con confirmación. |
