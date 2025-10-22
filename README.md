@@ -21,10 +21,12 @@ Proyecto orientado a la integración de tecnologías de inteligencia artificial 
 
 
 **DAM**
-- Cheha Bahk Hwang
-- Borja Logrosan Rodriguez
-- Jose Gómez Nadal
-
+| Nombre | Rol |
+|---------|-----|
+| Cheha Bahk Hwang | Jefe de Equipo |
+| Borja Logrosan Rodriguez | Desarrollo BackEnd |
+| Jose Gómez Nadal | Desarrollo BackEnd |
+| Sergio Alonso Perez | Desarrollo BackEnd |
 
 ## Tecnologías
 
